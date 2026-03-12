@@ -13,8 +13,8 @@
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts"/>
-<img src="https://img.shields.io/badge/RISC--V-Assembly-red?style=for-the-badge&logo=riscv&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,go,mysql"/>
+<img src="https://img.shields.io/badge/Assembly-Language-grey?style=for-the-badge&logo=gnu&logoColor=white"/>
 </p>
 
 ---
@@ -46,6 +46,16 @@
 
 ---
 
+## Cloud Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana"/>
+</p>
+
+---
+
 ## Systems / Hardware
 
 <p>
@@ -62,7 +72,7 @@
 Custom instruction extension experimentation for RISC-V architecture.
 
 Tech
-RISC-V Assembly • C++ • Systems Programming
+RISC-V Assembly • C++ • Computer Architecture
 
 Repository
 https://github.com/ServerCrash358/Silicon-RISC-V-CIE
@@ -99,11 +109,15 @@ Tech
 # 📊 GitHub Statistics
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=ServerCrash358&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ServerCrash358&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
