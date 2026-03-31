@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Shubhang+S;Systems+Engineer;DevOps+%7C+RISC-V+Developer;Machine+Learning+Enthusiast;Building+Low-Level+to+Cloud+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Shubhang+S;Backend+%26+DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+GitOps;Machine+Learning+Enthusiast;Building+Scalable+Distributed+Systems"/>
 </p>
 
 <p align="center">
