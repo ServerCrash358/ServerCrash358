@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 <p>
 Backend & DevOps-oriented engineer building <b>scalable, production-grade distributed systems</b> across the stack — from <b>low-level RISC-V architecture</b> to <b>cloud-native infrastructure</b>.
@@ -20,7 +20,7 @@ Strategically aligned towards <b>cloud infrastructure, systems engineering, and 
 
 ---
 
-# 💻 Skills
+# Skills
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ Strategically aligned towards <b>cloud infrastructure, systems engineering, and 
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🔹 Nexus — Self-Healing GitOps Platform  
 Production-grade Kubernetes GitOps system with automated recovery  
