@@ -168,6 +168,3 @@ React • Firebase • Real-time architecture
 
 ---
 
-# 📌 Work In Progress
-
-Building next-generation infrastructure systems focused on <b>automation, resilience, and scalability</b>.
