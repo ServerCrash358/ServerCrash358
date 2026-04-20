@@ -111,15 +111,6 @@ Automated failure detection and remediation insights
 
 ---
 
-## 🔹 Silicon-RISC-V-CIE  
-Custom instruction extension experimentation for RISC-V  
-
-**Tech:**  
-RISC-V Assembly • C++ • Computer Architecture  
-
-🔗 https://github.com/ServerCrash358/Silicon-RISC-V-CIE  
-
----
 
 ## 🔹 ThreatFind — ML Security Pipeline  
 NLP-based threat detection and classification  
