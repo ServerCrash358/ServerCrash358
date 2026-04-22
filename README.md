@@ -143,7 +143,7 @@ React • Firebase • Real-time architecture
 # 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=servercrash358&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+![Shubhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ServerCrash358&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
