@@ -142,9 +142,7 @@ React • Firebase • Real-time architecture
 
 # 🔥 Contribution Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ServerCrash358&theme=tokyonight&hide_border=true"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=servercrash358&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
@@ -158,4 +156,3 @@ React • Firebase • Real-time architecture
 - Fintech & blockchain (smart contracts, infra design)  
 
 ---
-
