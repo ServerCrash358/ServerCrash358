@@ -31,14 +31,12 @@ Strategically aligned towards <b>cloud infrastructure, systems engineering, and 
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,go,mysql"/><br/>
-<img src="https://img.shields.io/badge/Solidity-SmartContracts-black?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,go,solidity,mysql"/>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs"/><br/>
-<img src="https://img.shields.io/badge/REST-APIs-grey?style=flat-square"/>
-<img src="https://img.shields.io/badge/Firebase-Realtime-orange?style=flat-square&logo=firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase"/><br/>
+<img src="https://img.shields.io/badge/REST-APIs-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </td>
 
 <td align="center">
@@ -55,21 +53,19 @@ Strategically aligned towards <b>cloud infrastructure, systems engineering, and 
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/><br/>
-<img src="https://img.shields.io/badge/Transformers-NLP-yellow?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mamba-SSM-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/%F0%9F%A4%97_Transformers-NLP-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Mamba-SSM-792EE5?style=flat-square&logoColor=white"/>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,aws"/><br/>
-<img src="https://img.shields.io/badge/Helm-PackageManager-blue?style=flat-square&logo=helm"/>
-<img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=flat-square"/>
-<img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Minikube-Local_K8s-blue?style=flat-square&logo=kubernetes"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,git,aws"/><br/>
+<img src="https://img.shields.io/badge/Helm-PackageManager-0F1689?style=flat-square&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Minikube-Local_K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat-square&logo=prometheus"/><br/>
-<img src="https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana"/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
 </td>
 </tr>
 
@@ -79,8 +75,8 @@ Strategically aligned towards <b>cloud infrastructure, systems engineering, and 
 
 <tr>
 <td colspan="3" align="center">
-<img src="https://img.shields.io/badge/RISC--V-Architecture-red?style=flat-square&logo=riscv"/>
-<img src="https://img.shields.io/badge/Vivado-FPGA-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/RISC--V-Architecture-283272?style=flat-square&logo=riscv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vivado-FPGA-ED1C24?style=flat-square&logo=amd&logoColor=white"/>
 </td>
 </tr>
 
@@ -142,7 +138,7 @@ React • Firebase • Real-time architecture
 
 # 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=servercrash358&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ServerCrash358&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Shubhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ServerCrash358&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
