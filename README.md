@@ -141,25 +141,6 @@ Real-time application with scalable frontend + backend.
 
 ---
 
-## 🔗 Connect &amp; Explore
-
-<p align="center">
-  <a href="https://github.com/ServerCrash358?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse-Repositories-7aa2f7?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-  </a>
-  <a href="https://github.com/ServerCrash358?tab=followers">
-    <img src="https://img.shields.io/badge/GitHub-Follow-565f89?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20DevOps-7aa2f7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Infra-Kubernetes%20%7C%20GitOps-565f89?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Systems-RISC--V%20%7C%20FPGA-283272?style=flat-square"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Cloud-native infrastructure &amp; DevOps automation
