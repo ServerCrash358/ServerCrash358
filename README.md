@@ -1,9 +1,8 @@
 <!-- ============================================================
      GitHub Profile README
      ------------------------------------------------------------
-     All images here are static shields.io badges or decorative
-     banners that make no live GitHub-API calls, so nothing can
-     show "Error Fetching Resource" or rate-limit out.
+     Uses mostly static badges/banners plus a live GitHub stats
+     section powered by the GitHub Readme Stats API.
      ============================================================ -->
 
 
@@ -37,6 +36,15 @@ Backend &amp; DevOps-oriented engineer building <b>scalable, production-grade di
 Experienced in designing and deploying systems using <b>Kubernetes, GitOps workflows, ML pipelines, and observability stacks</b>, with a strong focus on <b>performance, reliability, and self-healing systems</b>.
 
 Strategically aligned towards <b>cloud infrastructure, systems engineering, and fintech platforms</b>, with hands-on expertise in building resilient backend architectures and automated infrastructure pipelines.
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ServerCrash358&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ServerCrash358&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
