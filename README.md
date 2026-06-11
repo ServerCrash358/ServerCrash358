@@ -63,58 +63,58 @@ I build **scalable, production-grade distributed systems** across the entire sta
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-  <td align="center" width="33%"><b>💬 Languages</b></td>
-  <td align="center" width="33%"><b>🧩 Backend</b></td>
-  <td align="center" width="33%"><b>🎨 Frontend</b></td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,go,mysql&theme=dark"/>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase&theme=dark"/><br/><br/>
-    <img src="https://img.shields.io/badge/REST-APIs-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
-  </td>
-</tr>
+<div align="center">
 
-<tr>
-  <td align="center"><b>🤖 AI / ML</b></td>
-  <td align="center"><b>☁️ DevOps &amp; Cloud</b></td>
-  <td align="center"><b>📡 Observability</b></td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/><br/><br/>
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97_Transformers-NLP-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Mamba-SSM-792EE5?style=flat-square&logoColor=white"/>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,git,aws&theme=dark"/><br/><br/>
-    <img src="https://img.shields.io/badge/Helm-Package_Manager-0F1689?style=flat-square&logo=helm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Minikube-Local_K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark"/>
-  </td>
-</tr>
+### 💬 Languages
 
-<tr>
-  <td colspan="3" align="center"><b>🔩 Systems / Hardware / Blockchain</b></td>
-</tr>
-<tr>
-  <td colspan="3" align="center">
-    <img src="https://img.shields.io/badge/RISC--V-Architecture-283272?style=flat-square&logo=riscv&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vivado-FPGA-ED1C24?style=flat-square&logo=amd&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Solidity-Smart_Contracts-363636?style=flat-square&logo=solidity&logoColor=white"/>
-  </td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### ⚙️ Backend & Frontend
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+### ☁️ DevOps & Cloud
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+### 🤖 AI / ML &nbsp;·&nbsp; 📡 Observability
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Mamba_SSM-792EE5?style=for-the-badge&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+### 🔩 Systems · Hardware · Blockchain
+
+<img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vivado_FPGA-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+
+</div>
 
 <br/>
 
