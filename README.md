@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend+%26+DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+GitOps;Machine+Learning+Enthusiast;Building+Scalable+Distributed+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend+%26+DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+GitOps;Machine+Learning;Building+Scalable+Distributed+Systems"/>
 </p>
 
 <p align="center">
