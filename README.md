@@ -5,11 +5,11 @@
 
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,35:414868,70:565f89,100:7aa2f7&height=200&section=header&text=Shubhang%20S&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20Systems&descSize=20&descAlignY=55&descColor=7aa2f7"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,35:414868,70:565f89,100:7aa2f7&height=200&section=header&text=Shubhang%20S&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=ML%20Infra%20%E2%80%A2%20DevOps%20%E2%80%A2%20Backend&descSize=20&descAlignY=55&descColor=7aa2f7"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend+%26+DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+GitOps;Machine+Learning;Building+Scalable+Distributed+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend+%26+DevOps+Engineer;Production+ML+%2F+LLM+Infrastructure;RAG+%7C+Multi-Agent+Systems+%7C+GitOps;Cloud-Native+Distributed+Systems"/>
 </p>
 
 <p align="center">
@@ -28,19 +28,19 @@
 name: Shubhang S
 role: Backend & DevOps Engineer
 focus:
-  - Cloud-native infrastructure & GitOps
+  - Production ML / LLM infrastructure (RAG, multi-agent systems)
+  - Cloud-native infrastructure, GitOps & DevOps automation
   - Distributed systems & backend scalability
-  - ML pipelines & observability
-  - RISC-V & low-level systems
-aligned_towards: [cloud infra, systems engineering, fintech platforms]
+  - Observability & self-healing infra
+learning_now: [advanced ML, DevOps, backend, cloud]
 ```
 
-I build **scalable, production-grade distributed systems** across the entire stack — from **low-level RISC-V architecture** all the way up to **cloud-native infrastructure**.
+I build **production-grade ML & backend systems** — from **RAG and multi-agent LLM infrastructure** down to the **cloud-native platforms and GitOps pipelines** that keep them running reliably.
 
-- ⚙️ Designing & deploying systems with **Kubernetes, GitOps workflows, ML pipelines, and observability stacks**
-- 🔁 Strong focus on **performance, reliability, and self-healing systems**
-- 🏦 Strategically aligned towards **cloud infrastructure, systems engineering, and fintech platforms**
-- 🛠️ Hands-on with **resilient backend architectures** and **automated infrastructure pipelines**
+- 🧠 Designing **production ML systems** — retrieval pipelines, rerankers, and reliability/safety layers for agentic LLM workloads
+- ⚙️ Shipping **Kubernetes, GitOps, and IaC** workflows with full observability (Prometheus + Grafana)
+- 🔁 Strong focus on **performance, reliability, and self-healing infrastructure**
+- 🛠️ Hands-on with **scalable backend architectures** and **automated, verifiable infra pipelines**
 
 <br/>
 
@@ -72,15 +72,21 @@ I build **scalable, production-grade distributed systems** across the entire sta
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### ⚙️ Backend & Frontend
+### ⚙️ Backend &nbsp;·&nbsp; 🗄️ Data
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
 <br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+### 🎨 Frontend
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -94,7 +100,7 @@ I build **scalable, production-grade distributed systems** across the entire sta
 <br/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -104,7 +110,10 @@ I build **scalable, production-grade distributed systems** across the entire sta
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/Mamba_SSM-792EE5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 <br/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
@@ -124,40 +133,67 @@ I build **scalable, production-grade distributed systems** across the entire sta
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Nexus — Self-Healing GitOps Platform
-Production-grade Kubernetes GitOps system with automated recovery.
+### ☁️ [NimbusX — Decentralized Cloud Cost Optimization](https://github.com/ServerCrash358/NimbusX)
+Schedules container workloads across compute providers to minimize cost.
 
-- 🔄 ArgoCD-based continuous deployment pipelines
-- 💥 Chaos Mesh failure simulation (resilience testing)
-- 📊 Full observability stack (Prometheus + Grafana)
-- 🩹 Self-healing infra with automated recovery
+- 🔗 Blockchain escrow for trustless provider settlement
+- 🎯 Priority-based workload scheduling
+- 📈 Real-time pricing oracles for cost-aware placement
 
-`Kubernetes` `ArgoCD` `Chaos Mesh` `Prometheus` `Grafana`
+`Go` `Blockchain` `Scheduling` `Cloud Cost`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚨 CertOps — Kubernetes Incident Detection
-Automated failure detection and remediation insights.
+### 🧠 [Mnemosyne — Multi-Agent LLM Safety Layer](https://github.com/ServerCrash358/Mnemosyne)
+A transactional safety layer for multi-agent LLM systems.
 
-- 🔍 Detects CrashLoopBackOff and system anomalies
-- 🧪 Automated diagnostics pipeline
-- 🐛 Improves debugging workflows in containerized systems
+- 🔁 Deterministic replay & prefix rollback
+- 🔐 Cryptographic provenance for agent actions
+- ✅ Verifier-gated consensus before commit
 
-`Kubernetes` `Automation` `Diagnostics`
+`Python` `Multi-Agent` `LLM` `Reliability`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [ThreatFind — ML Security Pipeline](https://github.com/ServerCrash358/ThreatFind)
-NLP-based threat detection and classification.
+### 💡 [Lumina-RAG — Production RAG API](https://github.com/ServerCrash358/Lumina-RAG)
+Answers questions grounded in your own documents, built to run in prod.
 
-- ⚙️ Scalable ML inference pipeline
-- 🔐 Security-focused NLP classification
+- ⚡ Async FastAPI + PostgreSQL/pgvector (HNSW ANN) + Redis cache
+- 🎯 Two-stage retrieval: vector search → cross-encoder rerank
+- ☸️ Containerised, deployed to Kubernetes via GitOps, fully observable
+- 🧪 Automated eval pipeline (MLflow + Prefect) & Terraform on AWS
 
-`Python` `NLP` `ML Pipeline`
+`FastAPI` `pgvector` `RAG` `Kubernetes` `Terraform`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚨 [CertOps — Autonomous DevOps Remediation](https://github.com/ServerCrash358/CertOps)
+Simulates, verifies, and certifies infra fixes before they hit prod.
+
+- 🔍 Detects CrashLoopBackOff and system anomalies
+- 🧪 Verifies remediation actions before execution
+- 🐛 Improves debugging workflows in containerized systems
+
+`Kubernetes` `Automation` `DevOps`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [ThreatFind — Autonomous Threat Hunting](https://github.com/ServerCrash358/ThreatFind)
+Real-time network threat hunting combining vision + retrieval.
+
+- 👁️ Vision Transformers (ViT) for anomaly detection
+- 📚 RAG pipeline powered by a Llama-based LLM
+- ⚙️ Scalable, security-focused ML inference
+
+`Python` `ViT` `RAG` `Security`
 
 </td>
 <td width="50%" valign="top">
@@ -172,19 +208,6 @@ NLP-based threat detection and classification.
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🌿 Eco-Matrix — Full Stack System
-Real-time application with scalable frontend + backend.
-
-- ⚡ Real-time architecture with live data sync
-- 🧱 Scalable frontend & backend design
-
-`React` `Firebase` `Real-time`
-
-</td>
-</tr>
 </table>
 
 <br/>
@@ -193,10 +216,11 @@ Real-time application with scalable frontend + backend.
 
 | Area | What I'm Exploring |
 |------|--------------------|
-| ☁️ **Cloud-Native Infra** | DevOps automation, GitOps at scale |
-| 🌐 **Distributed Systems** | Backend scalability & reliability patterns |
-| 🔩 **Systems** | RISC-V architecture & low-level experimentation |
-| 🏦 **Fintech & Blockchain** | Smart contracts, financial infra design |
+| 🧠 **Production ML / LLM Infra** | RAG systems, rerankers, multi-agent LLM reliability & safety |
+| 📈 **Advanced ML** | Transformers, ViT, retrieval & evaluation pipelines |
+| ⚙️ **DevOps & GitOps** | Autonomous remediation, Kubernetes automation at scale |
+| ☁️ **Cloud-Native Backend** | Async APIs, distributed systems, AWS + Terraform IaC |
+| 📡 **Observability** | Metrics, tracing & self-healing infrastructure |
 
 <br/>
 
