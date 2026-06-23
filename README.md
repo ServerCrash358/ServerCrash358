@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name: Shubhang S
@@ -32,7 +32,7 @@ focus:
   - Cloud-native infrastructure, GitOps & DevOps automation
   - Distributed systems & backend scalability
   - Observability & self-healing infra
-learning_now: [advanced ML, DevOps, backend, cloud]
+Developing.. [advanced ML, DevOps, backend, cloud]
 ```
 
 I build **production-grade ML & backend systems** — from **RAG and multi-agent LLM infrastructure** down to the **cloud-native platforms and GitOps pipelines** that keep them running reliably.
@@ -61,11 +61,11 @@ I build **production-grade ML & backend systems** — from **RAG and multi-agent
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💬 Languages
+### Languages
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -73,7 +73,7 @@ I build **production-grade ML & backend systems** — from **RAG and multi-agent
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
-### ⚙️ Backend &nbsp;·&nbsp; 🗄️ Data
+### Backend &nbsp;·&nbsp;  Data
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -85,7 +85,7 @@ I build **production-grade ML & backend systems** — from **RAG and multi-agent
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
 
-### 🎨 Frontend
+### Frontend
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -104,7 +104,7 @@ I build **production-grade ML & backend systems** — from **RAG and multi-agent
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-### 🤖 AI / ML &nbsp;·&nbsp; 📡 Observability
+### AI / ML &nbsp;·&nbsp; Observability
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -117,7 +117,7 @@ I build **production-grade ML & backend systems** — from **RAG and multi-agent
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
-### 🔩 Systems · Hardware · Blockchain
+### Systems · Hardware · Blockchain
 
 <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vivado_FPGA-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
@@ -127,7 +127,21 @@ I build **production-grade ML & backend systems** — from **RAG and multi-agent
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
+
+### 🧠 [Mnemosyne — Multi-Agent LLM Safety Layer](https://github.com/ServerCrash358/Mnemosyne)
+A transactional safety layer for multi-agent LLM systems.
+
+- 🔁 Deterministic replay & prefix rollback
+- 🔐 Cryptographic provenance for agent actions
+- ✅ Verifier-gated consensus before commit
+
+`Python` `Multi-Agent` `LLM` `Reliability`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <table>
 <tr>
@@ -143,20 +157,6 @@ Schedules container workloads across compute providers to minimize cost.
 `Go` `Blockchain` `Scheduling` `Cloud Cost`
 
 </td>
-<td width="50%" valign="top">
-
-### 🧠 [Mnemosyne — Multi-Agent LLM Safety Layer](https://github.com/ServerCrash358/Mnemosyne)
-A transactional safety layer for multi-agent LLM systems.
-
-- 🔁 Deterministic replay & prefix rollback
-- 🔐 Cryptographic provenance for agent actions
-- ✅ Verifier-gated consensus before commit
-
-`Python` `Multi-Agent` `LLM` `Reliability`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💡 [Lumina-RAG — Production RAG API](https://github.com/ServerCrash358/Lumina-RAG)
