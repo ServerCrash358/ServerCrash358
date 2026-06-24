@@ -49,6 +49,9 @@ I build **production-grade ML & backend systems** — from **RAG and multi-agent
 <br/>
 
 ## GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ServerCrash358&border_radius=10&theme=dracula" alt="siri-n-shetty" /> 
+</p>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ServerCrash358&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=1a1b27"/>
