@@ -51,11 +51,6 @@ I build **production-grade ML & backend systems** — from **RAG and multi-agent
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ServerCrash358&show_icons=true&include_all_commits=true&rank_icon=default&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ServerCrash358&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ServerCrash358&theme=tokyonight&hide_border=true&background=1a1b27"/>
 </p>
 
