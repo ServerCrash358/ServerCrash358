@@ -150,7 +150,7 @@ I build **production-grade ML & backend systems** — from **RAG and multi-agent
 <tr>
 <td width="50%" valign="top">
 
-### [Mnemosyne — Multi-Agent LLM Safety Layer](https://github.com/ServerCrash358/Mnemosyne)
+### [Mnemosyne - Multi-Agent LLM Safety Layer](https://github.com/ServerCrash358/Mnemosyne)
 A transactional safety layer for multi-agent LLM systems.
 
 - Deterministic replay & prefix rollback
@@ -172,7 +172,7 @@ A RAG system built around one invariant: the vector index should never silently 
 
 <td width="50%" valign="top">
 
-### [NimbusX — Decentralized Cloud Cost Optimization](https://github.com/ServerCrash358/NimbusX)
+### [NimbusX - Decentralized Cloud Cost Optimization](https://github.com/ServerCrash358/NimbusX)
 Schedules container workloads across compute providers to minimize cost.
 
 - Blockchain escrow for trustless provider settlement
@@ -186,7 +186,7 @@ Schedules container workloads across compute providers to minimize cost.
 <tr>
 <td width="50%" valign="top">
 
-### [Lumina-RAG — Production RAG API](https://github.com/ServerCrash358/Lumina-RAG)
+### [Lumina-RAG - Production RAG API](https://github.com/ServerCrash358/Lumina-RAG)
 Answers questions grounded in your own documents, built to run in prod.
 
 - Async FastAPI + PostgreSQL/pgvector (HNSW ANN) + Redis cache
@@ -199,7 +199,7 @@ Answers questions grounded in your own documents, built to run in prod.
 </td>
 <td width="50%" valign="top">
 
-### [CertOps — Autonomous DevOps Remediation](https://github.com/ServerCrash358/CertOps)
+### [CertOps - Autonomous DevOps Remediation](https://github.com/ServerCrash358/CertOps)
 Simulates, verifies, and certifies infra fixes before they hit prod.
 
 - Detects CrashLoopBackOff and system anomalies
@@ -213,7 +213,7 @@ Simulates, verifies, and certifies infra fixes before they hit prod.
 <tr>
 <td width="50%" valign="top">
 
-### [ThreatFind — Autonomous Threat Hunting](https://github.com/ServerCrash358/ThreatFind)
+### [ThreatFind - Autonomous Threat Hunting](https://github.com/ServerCrash358/ThreatFind)
 Real-time network threat hunting combining vision + retrieval.
 
 - Vision Transformers (ViT) for anomaly detection
@@ -221,17 +221,6 @@ Real-time network threat hunting combining vision + retrieval.
 - Scalable, security-focused ML inference
 
 `Python` `ViT` `RAG` `Security`
-
-</td>
-<td width="50%" valign="top">
-
-### Fake Reddit Sentiment Analyzer
-6-class transformer-based NLP classifier.
-
-- Transformer architecture for multi-class sentiment
-- End-to-end training & evaluation workflow
-
-`PyTorch` `Transformers` `NLP`
 
 </td>
 </tr>
