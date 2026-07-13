@@ -162,14 +162,18 @@ A transactional safety layer for multi-agent LLM systems.
 </td>
 <td width="50%" valign="top">
 
-### [Freshdex - Contex6t freshness through CDC](https://github.com/ServerCrash358/Freshdex)
-A RAG system built around one invariant: the vector index should never silently drift from the source of truth.
-- Most RAG systems re-index on a batch schedule, so a document can change in Postgres and the answer engine keeps citing stale content indefinitely, with no signal that anything is wrong.
+### [FreshDex - Freshness-SLO-Driven Streaming RAG](https://github.com/ServerCrash358/Freshdex)
+A RAG platform built around one invariant: the vector index should never silently drift from the source of truth.
 
-`RAG` `Vector` `debezium` 
+- Captures document changes via CDC (Debezium reading the Postgres WAL) and streams them through Kafka for near-real-time re-embedding, replacing brittle nightly batch re-indexing
+- Treats index freshness as a first-class SLO — change-to-queryable latency instrumented and burn-rate alerted in Prometheus/Grafana
+- Checksum-gated upserts skip redundant re-embedding; a dependency-aware Redis cache invalidation layer is driven directly by CDC events
+
+`RAG` `Debezium` `Kafka` `pgvector` `Prometheus`
 
 </td>
-
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [NimbusX - Decentralized Cloud Cost Optimization](https://github.com/ServerCrash358/NimbusX)
@@ -182,8 +186,6 @@ Schedules container workloads across compute providers to minimize cost.
 `Go` `Blockchain` `Scheduling` `Cloud Cost`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Lumina-RAG - Production RAG API](https://github.com/ServerCrash358/Lumina-RAG)
@@ -197,6 +199,8 @@ Answers questions grounded in your own documents, built to run in prod.
 `FastAPI` `pgvector` `RAG` `Kubernetes` `Terraform`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [CertOps - Autonomous DevOps Remediation](https://github.com/ServerCrash358/CertOps)
@@ -209,8 +213,6 @@ Simulates, verifies, and certifies infra fixes before they hit prod.
 `Kubernetes` `Automation` `DevOps`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ThreatFind - Autonomous Threat Hunting](https://github.com/ServerCrash358/ThreatFind)
