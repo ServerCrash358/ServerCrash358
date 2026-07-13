@@ -162,6 +162,16 @@ A transactional safety layer for multi-agent LLM systems.
 </td>
 <td width="50%" valign="top">
 
+### [Freshdex - Contex6t freshness through CDC](https://github.com/ServerCrash358/Freshdex)
+A RAG system built around one invariant: the vector index should never silently drift from the source of truth.
+- Most RAG systems re-index on a batch schedule, so a document can change in Postgres and the answer engine keeps citing stale content indefinitely, with no signal that anything is wrong.
+
+`RAG` `Vector` `debezium` 
+
+</td>
+
+<td width="50%" valign="top">
+
 ### [NimbusX — Decentralized Cloud Cost Optimization](https://github.com/ServerCrash358/NimbusX)
 Schedules container workloads across compute providers to minimize cost.
 
