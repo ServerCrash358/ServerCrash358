@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend+%26+Systems+Engineer;Low-latency+Go+services;Streaming+RAG+%26+vector+search;Co-founder+%40+Devsper" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend+%26+Systems+Engineer;Low-latency+Go+services;Retrieval+%26+vector+search;Co-founder+%40+Devsper" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -20,46 +20,42 @@
 
 Final-year CSE student at PES University, Bengaluru, and co-founding engineer at **Devsper**, an AI automation platform for software consultancies. I like systems that stay predictable under load and fail in ways you can see.
 
-## What I've been building
+## Currently building
 
-- **[rtb-engine](https://github.com/ServerCrash358/rtb-engine)**: Go auction core. Parallel gRPC fan-out to bidders under a hard latency budget, load shedding and partial results. Load-tested with k6 against mock bidders (about 1,850 req/s on one dev box).
-- **[Lumina-RAG](https://github.com/ServerCrash358/Lumina-RAG)**: async RAG API with pgvector HNSW, cross-encoder reranking, Redis cache, Kubernetes/ArgoCD deployment, and an automated eval pipeline.
-- **[FreshDex](https://github.com/ServerCrash358/Freshdex)**: streaming RAG that keeps the vector index in sync with Postgres through CDC (Debezium → Redpanda → embedding worker).
-- **[Mnemosyne](https://github.com/ServerCrash358/Mnemosyne)**: reference implementation of a deterministic record/replay and consensus layer for multi-agent LLM runs, with a hash-chained ledger.
-- **StockLedger**: FastAPI/Postgres inventory service with row-level locking and idempotent sagas. 1,000 concurrent purchases against 100 units gave exactly 100 successes.
-- **Lattice**: designing a C++ vector database (disk-resident Vamana-style graph index). Design stage, not built yet.
-- **RISC-V / FPGA**: PicoRV32-based SoC with a KNN core on an Artix-7, plus a UART bootloader in assembly.
+> **A vector database from scratch in C++**: disk-first, built for filtered, hybrid and multi-vector search on a single machine.
 
-## Tech
+| | |
+|---|---|
+| **Index** | Graph-based ANN (DiskANN / Vamana-style), disk-resident, with an in-RAM backend for fast iteration |
+| **Storage** | Write buffer that flushes into immutable columnar segments; graph nodes and vectors co-located in 4 KB records |
+| **Ingestion** | CDC-style sync from a source database with idempotent, checksum-gated upserts |
+| **Target** | Around 100M vectors on one box, with RAM held to about 1/10 of the corpus |
+| **Status** | Design phase, implementation next |
 
-<div align="center">
+## Tech Stack
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Verilog-RISC--V-283272?style=flat-square&logo=riscv&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/gRPC-2D8CFF?style=flat-square&logo=grpc&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka%20%2F%20Redpanda-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=go,py,cpp,ts,bash&theme=dark" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend &amp; Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,kafka&theme=dark" alt="Backend and data"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,linux&theme=dark" alt="Infra"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>ML &amp; Observability</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,prometheus,grafana&theme=dark" alt="ML and observability"/></td>
+  </tr>
+</table>
 
-</div>
+<p align="center">
+  <sub>Also: gRPC · pgvector · Debezium · ArgoCD · MLflow · Hugging Face · k6</sub>
+</p>
 
 ## GitHub Stats
 
@@ -68,7 +64,7 @@ Final-year CSE student at PES University, Bengaluru, and co-founding engineer at
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ServerCrash358&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" alt="Contribution activity"/>
+  <img src="https://raw.githubusercontent.com/ServerCrash358/ServerCrash358/output/github-snake-dark.svg" alt="Contribution snake"/>
 </p>
 
 ## Current focus
@@ -76,9 +72,8 @@ Final-year CSE student at PES University, Bengaluru, and co-founding engineer at
 | Area | What I'm working on |
 |------|---------------------|
 | **Low-latency services** | Go concurrency, deadlines, load shedding, load testing |
-| **Retrieval & vector search** | HNSW/Vamana indexes, reranking, CDC-driven freshness |
+| **Retrieval & vector search** | Graph ANN indexes, reranking, keeping indexes fresh |
 | **Reliable agent systems** | Deterministic replay, consensus, auditable logs |
-| **Hardware** | RISC-V soft cores and FPGA accelerators |
 
 ## Connect
 
